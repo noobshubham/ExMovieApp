@@ -1,4 +1,4 @@
 # ExMovieApp
 
 ## Disclaimer
-ExMovieApp is developed with the intension of using this tool only for educational purpose.
+ExMovieApp is developed with the intension of using this app only for educational purpose.
