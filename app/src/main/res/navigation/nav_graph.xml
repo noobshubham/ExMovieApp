@@ -13,7 +13,7 @@
     <fragment
         android:id="@+id/splashFragment"
         android:name="com.noobshubham.exmovieapp.SplashFragment"
-        android:label="fragment_splash"
+        android:label="Home"
         tools:layout="@layout/fragment_splash" >
         <action
             android:id="@+id/action_splashFragment_to_FirstFragment"

@@ -3,6 +3,7 @@ package com.noobshubham.exmovieapp
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
@@ -29,9 +30,9 @@ class SplashFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         // delay handler or https://stackoverflow.com/a/41664501
-        Handler().postDelayed({
+        Handler(Looper.getMainLooper()).postDelayed({
             findNavController().navigate(R.id.action_splashFragment_to_FirstFragment)
-            // your code to run after 2 second
+            //Do something after 2s
         }, 2000)
     }
 
