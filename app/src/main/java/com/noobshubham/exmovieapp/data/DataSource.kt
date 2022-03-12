@@ -7,7 +7,7 @@ class DataSource() {
 
     fun loadMovie(): List<Movie> {
         return listOf<Movie>(
-            Movie(R.string.spidermannwh, R.drawable.spidermannwh, "https://Private:Mirror%4069@pvtbot.adda.workers.dev/2:/Uploads/Spider-Man.No.Way.Home.2021.720p.10bit.BrRip.6CH.x265.HEVC-PSA/Spider-Man.No.Way.Home.2021.720p.10bit.BrRip.6CH.x265.HEVC-PSA.mkv"),
+            Movie(R.string.spidermannwh, R.drawable.spidermannwh, "https://my.bot-verse.workers.dev/0:/fuck,%20i'm%20lonely/Spider-Man.No.Way.Home.2021.720p.10bit.BluRay.6CH.x265.HEVC-PSA/Spider-Man.No.Way.Home.2021.720p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv"),
             Movie(R.string.venom, R.drawable.venom, "https://bot.jhantudrive.workers.dev/0:/Venom%20-%20Let%20There%20Be%20Carnage%20%282021%29%20720p%2010bit%20AMZN%20WEBRip%20x265%20HEVC%20%5BOrg%20BMS%20Hindi%20AAC%205.1%20320Kbps%5D%20ESubs%20~%20%28strange%29%20PSA.mkv"),
             Movie(R.string.the_weekend_away, R.drawable.theweekendaway, "https://bot.jhantudrive.workers.dev/0:/The%20Weekend%20Away%20%282022%29%20720p%2010bit%20NF%20WEBRip%20x265%20HEVC%20%5BHindi%20AAC%205.1%20%2B%20English%20AAC%205.1%5D%20ESub%20~%20Immortal.mkv"),
             Movie(R.string.againts_the_ice, R.drawable.againtstheice, "https://bot.jhantudrive.workers.dev/0:/Against%20The%20Ice%20%282022%29%20720p%2010bit%20NF%20WEBRip%20x265%20HEVC%20%5BHindi%20AAC%205.1%20%2B%20English%20AAC%205.1%5D%20ESub%20~%20Immortal.mkv"),
