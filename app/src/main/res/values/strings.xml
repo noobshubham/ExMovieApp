@@ -3,10 +3,14 @@
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">ExMovieApp</string>
+    <string name="spidermannwh">Spider-Man: No Way Home (2021)</string>
     <string name="venom">Venom: Let There Be Carnage (2021)</string>
     <string name="the_weekend_away">The Weekend Away (2021)</string>
     <string name="againts_the_ice">Against The Ice (2022)</string>
     <string name="sooryavanshi">Sooryavanshi (2021)</string>
     <string name="chandigarh">Chandigarh Kare Aashiqui (2021)</string>
     <string name="pirates">The Pirates: The Last Royal Treasure (2022)</string>
+    <string name="escaperoom">Escape Room - Tournament of Champions (2021)</string>
+    <string name="rednotice">Red Notice (2021)</string>
+    <string name="badhaaido">Badhaai Do (2021)</string>
 </resources>
